@@ -4,7 +4,7 @@ const path = require('path')
 const inquirer = require('inquirer')
 const generateMarkdown = require('./utils/generateMarkdown')
 
-// TODO: Create an array of questions for user input
+//Create an array of questions for user input
 const questions = [
     {
         type: 'input',
@@ -56,11 +56,24 @@ const questions = [
     }
 ];
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+//Create a function to write README file
+function writeToFile(fileName, data) {
+    inquirer
+        .prompt(questions)
+        .then((data) => {
+            const fileName = `${data.questions.name.toLowerCase().split(' ').join('')}.json`;
+
+            fs.writeFile(fileName, JSON.stringify(data, null, '\t'), (err) =>
+            err ? console.log(err) : console.log('Success!')
+            );
+            generateMarkdown();
+        });
+}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    writeToFile();
+}
 
 // Function call to initialize app
 init();
