@@ -4,14 +4,14 @@
   
 ## Table of contents   
 -[Description](#Description)  
--[User needs to know](#User-needs-to-know:)  
+-[Information](#Information:)  
 -[Images](#Images)  
 -[Contributors](#Contributors)  
 
 ## Description  
 This project was to build a readme generator. This is done by using the inquirer npm. When you open the terminal you answer the questions that are prompted then it takes your data and generates a readme for your project based on your options.
 
-## User needs to know:  
+## Information:  
 Answer the prompted questions and it will generate you a readme for you project
 
 ### Images  
