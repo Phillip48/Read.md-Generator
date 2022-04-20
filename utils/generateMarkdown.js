@@ -35,7 +35,7 @@ ${renderLicenseBadge(data.license)}
   
 ## Table of contents   
 -[Description](#Description)  
--[User Knowledge](#User-needs-to-know:)  
+-[User-Knowledge](#User-needs-to-know:)  
 -[Images](#Images)  
 -[Contributors](#Contributors)  
 
@@ -49,6 +49,9 @@ ${data.userKnowledge}
 ![Img 1](${data.photos})  
 ![Img 2](${data.photos})  
 ![Img 3](${data.photos})  
+
+### Installation   
+${data.installation}  
 
 ## Contact Me  
 Github: ${data.userName}  

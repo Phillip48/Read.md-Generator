@@ -27,6 +27,11 @@ const questions = [
         message: 'Write a short description for this project:',
     },
     {
+        type: 'input',
+        name: 'installation',
+        message: 'Write your installation link here:',
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'What kind of license should your project have?',
