@@ -35,14 +35,14 @@ ${renderLicenseBadge(data.license)}
   
 ## Table of contents   
 -[Description](#Description)  
--[User-Knowledge](#User-needs-to-know:)  
+-[Information](#Information)  
 -[Images](#Images)  
 -[Contributors](#Contributors)  
 
 ## Description  
 ${data.projectDescription}
 
-## User needs to know:  
+## Information  
 ${data.userKnowledge}
 
 ### Images  
