@@ -61,7 +61,7 @@ function writeToFile(fileName, data) {
     inquirer
         .prompt(questions)
         .then((data) => {
-            const fileName = `${data.questions.name.toLowerCase().split(' ').join('')}.json`;
+            // const fileName = `${data.questions.name.toLowerCase().split(' ').join('')}.json`;
 
             fs.writeFile(fileName, JSON.stringify(data, null, '\t'), (err) =>
             err ? console.log(err) : console.log('Success!')
