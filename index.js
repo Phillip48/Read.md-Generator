@@ -53,7 +53,12 @@ const questions = [
         type: 'input',
         name: 'contributors',
         message: 'Who contributed in this project?',
-    }
+    },
+    // {
+    //     type: 'input',
+    //     name: 'photos',
+    //     message: 'Enter yourn photos: (Enter to skip)',
+    // },
 ];
 
 //Create a function to write README file
@@ -63,10 +68,9 @@ function writeToFile(fileName, data) {
         .then((data) => {
             // const fileName = `${data.questions.name.toLowerCase().split(' ').join('')}.json`;
 
-            fs.writeFile(fileName, JSON.stringify(data, null, '\t'), (err) =>
+            fs.writeFile('README.md', generateMarkdown(data), (err) =>
             err ? console.log(err) : console.log('Success!')
             );
-            generateMarkdown();
         });
 }
 
