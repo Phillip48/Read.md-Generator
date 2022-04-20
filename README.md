@@ -4,7 +4,7 @@
   
 ## Table of contents   
 -[Description](#Description)  
--[User Knowledge](#User-needs-to-know:)  
+-[Information](#User-needs-to-know:)  
 -[Images](#Images)  
 -[Contributors](#Contributors)  
 
