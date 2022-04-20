@@ -33,11 +33,11 @@ function generateMarkdown(data) {
   # ${data.userTitle}
   ${renderLicenseBadge(data.license)}
   
-  ##Table of contents
-  -[Description](#Description)
-  -[User Knowledge](#User-needs-to-know:)
-  -[Images](#Images)
-  -[Contributors](#Contributors)
+  ##Table of contents  
+  -[Description](#Description)  
+  -[User Knowledge](#User-needs-to-know:)  
+  -[Images](#Images)  
+  -[Contributors](#Contributors)  
 
   ##Description
   ${data.projectDescription}
@@ -49,6 +49,10 @@ function generateMarkdown(data) {
   ![Img 1](${data.photos})
   ![Img 2](${data.photos})
   ![Img 3](${data.photos})
+
+  ##Contact me
+  Github: ${data.userName}
+  Email: ${data.userEmail}
 
   ##Contributors
   ${data.contributors}
