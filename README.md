@@ -7,6 +7,8 @@
 -[Information](#Information)  
 -[Images](#Images)     
 -[Installation](#Installation)  
+-[Contact Me](#Contact-Me)    
+-[License](#License)  
 -[Contributors](#Contributors)  
 
 ## Description  
@@ -27,6 +29,8 @@ Quick GIF on how to use this generator.
 ## Contact Me  
 Github: Phillip48  
 Email: phillip482@icloud.com  
+
+## License
 
 ## Contributors  
 *Phillip48*  
