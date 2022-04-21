@@ -37,7 +37,9 @@ ${renderLicenseBadge(data.license)}
 -[Description](#Description)  
 -[Information](#Information)   
 -[Images](#Images)    
--[Installation](#Installation)    
+-[Installation](#Installation)     
+-[Contact](#Contact-Me)    
+-[License](#License)     
 -[Contributors](#Contributors)  
 
 ## Description  
@@ -59,6 +61,9 @@ ${data.installation}
 Github: ${data.userName}  
 Email: ${data.userEmail}  
 
+${renderLicenseSection(data.license)}   
+${renderLicenseLink(data.license)}   
+   
 ## Contributors  
 *${data.contributors}*  
 
