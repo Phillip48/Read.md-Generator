@@ -5,7 +5,8 @@
 ## Table of contents   
 -[Description](#Description)   
 -[Information](#Information)  
--[Images](#Images)  
+-[Images](#Images)
+-[Installation](#Installation)  
 -[Contributors](#Contributors)  
 
 ## Description  
@@ -22,7 +23,7 @@ Prompted Questions to answer.
 ![Img 2](./img/readme%20generator%20updated.gif)  
 Quick GIF on how to use this generator.
 
-### Installation   
+## Installation   
 'git clone git@github.com:Phillip48/Read.md-Generator.git'  
 
 ## Contact Me  

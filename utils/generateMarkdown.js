@@ -37,6 +37,7 @@ ${renderLicenseBadge(data.license)}
 -[Description](#Description)  
 -[Information](#Information)   
 -[Images](#Images)  
+-[Installation](#Installation)  
 -[Contributors](#Contributors)  
 
 ## Description  
@@ -51,7 +52,7 @@ ${data.photoDescriptionOne}
 ![Img 2](${data.photosTwo})   
 ${data.photoDescriptionTwo}  
 
-### Installation   
+## Installation   
 ${data.installation}  
 
 ## Contact Me  
