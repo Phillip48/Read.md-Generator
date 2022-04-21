@@ -15,7 +15,7 @@ This project was to build a readme generator. This is done by using the inquirer
 ## Information  
 Answer the prompted questions to generate a readme.  
 
-### Images  
+## Images  
 ![Img 1](./img/readmequestions.png)  
 Prompted Questions to answer.  
 ![Img 2](./img/readme%20generator%20updated.gif)  
