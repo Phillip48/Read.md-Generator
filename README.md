@@ -3,8 +3,8 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)  
   
 ## Table of contents   
--[Description](#Description)  
--[Information](#Information)   
+-[Description](#Description)   
+-[Information](#Information)  
 -[Images](#Images)  
 -[Contributors](#Contributors)  
 
@@ -13,6 +13,8 @@ This project was to build a readme generator. This is done by using the inquirer
 
 ## Information  
 Answer the prompted questions to generate a readme
+## Information:  
+Answer the prompted questions and it will generate you a readme for you project
 
 ### Images  
 ![Img 1](./img/readmequestions.png)  
