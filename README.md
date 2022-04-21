@@ -13,9 +13,7 @@
 This project was to build a readme generator. This is done by using the inquirer npm. When you open the terminal you answer the questions that are prompted then it takes your data and generates a readme for your project based on your options.
 
 ## Information  
-Answer the prompted questions to generate a readme
-## Information:  
-Answer the prompted questions and it will generate you a readme for you project
+Answer the prompted questions to generate a readme.  
 
 ### Images  
 ![Img 1](./img/readmequestions.png)  
