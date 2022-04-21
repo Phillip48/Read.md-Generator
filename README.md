@@ -21,8 +21,8 @@ Prompted Questions to answer.
 ![Img 2](./img/readme%20generator%20updated.gif)  
 Quick GIF on how to use this generator.
 
-## Installation   
-'git clone git@github.com:Phillip48/Read.md-Generator.git'  
+## Installation     
+`git clone git@github.com:Phillip48/Read.md-Generator.git`  
 
 ## Contact Me  
 Github: Phillip48  
