@@ -31,6 +31,7 @@ Github: Phillip48
 Email: phillip482@icloud.com  
 
 ## License
+This project is licensed under MIT  
 
 ## Contributors  
 *Phillip48*  
