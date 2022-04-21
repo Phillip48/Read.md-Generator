@@ -32,6 +32,26 @@ const questions = [
         message: 'Write your installation link here:',
     },
     {
+        type: 'input',
+        name: 'photosOne',
+        message: 'Input your first photo here:',
+    },
+    {
+        type: 'input',
+        name: 'photoDescriptionOne',
+        message: 'Input your first description for first photo here:',
+    },
+    {
+        type: 'input',
+        name: 'photosTwo',
+        message: 'Input your second photo here:',
+    },
+    {
+        type: 'input',
+        name: 'photoDescriptionTwo',
+        message: 'Input your second description for your second photo here:',
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'What kind of license should your project have?',

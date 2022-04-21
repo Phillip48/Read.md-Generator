@@ -35,7 +35,7 @@ ${renderLicenseBadge(data.license)}
   
 ## Table of contents   
 -[Description](#Description)  
--[Information](#Information)  
+-[Information](#Information)   
 -[Images](#Images)  
 -[Contributors](#Contributors)  
 
@@ -46,9 +46,10 @@ ${data.projectDescription}
 ${data.userKnowledge}
 
 ### Images  
-![Img 1](${data.photos})  
-![Img 2](${data.photos})  
-![Img 3](${data.photos})  
+![Img 1](${data.photosOne})  
+${data.photoDescriptionOne}   
+![Img 2](${data.photosTwo})   
+${data.photoDescriptionTwo}  
 
 ### Installation   
 ${data.installation}  
@@ -58,7 +59,7 @@ Github: ${data.userName}
 Email: ${data.userEmail}  
 
 ## Contributors  
-${data.contributors}  
+*${data.contributors}*  
 
   `;
 }
