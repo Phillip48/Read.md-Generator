@@ -12,7 +12,8 @@
 -[Contributors](#Contributors)  
 
 ## Description  
-This project was to build a readme generator. This is done by using the inquirer npm. When you open the terminal you answer the questions that are prompted then it takes your data and generates a readme for your project based on your options.
+This project was to build a readme generator. This is done by using the inquirer npm. When you open the terminal you answer the questions that are prompted then it takes your data and generates a readme for your project based on your options.   
+Link to the video:   
 https://drive.google.com/file/d/1-Hv9__ms0O59ggp8gkHLG1Q7zbM_oIGq/view?usp=sharing
 
 ## Information  
