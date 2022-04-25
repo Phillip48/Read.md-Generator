@@ -23,7 +23,8 @@ Answer the prompted questions to generate a readme.
 ![Img 1](./img/readmequestions.png)  
 Prompted Questions to answer.  
 ![Img 2](./img/readme%20generator%20updated.gif)  
-Quick GIF on how to use this generator.
+Quick GIF on how to use this generator.  
+[Video Link](https://drive.google.com/file/d/1-Hv9__ms0O59ggp8gkHLG1Q7zbM_oIGq/view?usp=sharing)  
 
 ## Installation     
 `git clone git@github.com:Phillip48/Read.md-Generator.git`  
