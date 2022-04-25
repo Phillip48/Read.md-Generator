@@ -30,7 +30,7 @@ Quick GIF on how to use this generator.
 `git clone git@github.com:Phillip48/Read.md-Generator.git`  
 
 ## Contact Me  
-Github: Phillip48  
+[GitHub: Phillip48](https://github.com/Phillip48)  
 Email: phillip482@icloud.com  
 
 ## License
